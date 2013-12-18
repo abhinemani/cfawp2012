@@ -25,6 +25,8 @@
 					<li><a href="/programs">Programs</a></li>
 					<li><a href="/donors">Donors</a></li>
 					<li><a href="/press">Press</a></li>
+					<li><a href="/jobs">Jobs</a></li>
+					
 				</ul>
 			</li>
 			<li><h4><a href="/fellows">Fellows</a></h4>
